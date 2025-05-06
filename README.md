@@ -17,6 +17,7 @@
 
 ## 📫 Contact me:
   * email: rokas.imelinskas@gmail.com
+  * linkedin: www.linkedin.com/in/rokas-imelinskas
   * phone: +370 631 53605
     
 <!---
