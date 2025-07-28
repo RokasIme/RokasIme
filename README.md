@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Rokas Imelinskas
-  🎓I am currently studying Full-Stack Development at the Baltic Institute of Technology and am highly motivated to build a career as an IT specialist.
+  🎓 I completed a Full-Stack Development program at the Baltic Institute of Technology and I’m highly motivated to build a career as a software developer.
   
 ## 🚀 About me
--  🌱 I’m currently learning `JavaScript`, `HTML`, `CSS`, `DOM`, `API`, `express.js`, `CRUD` oerations, `REACT`, `SQL`.
--  🛠️ Passionate about writing clean and readable code, skilled at creating user-friendly web apps.
--  🧠 Eager to learn and continuously improve coding skills.
--  🧑 My personal qualities is responsibility, attentiveness, precision, patience, and logical thinking.
+-  🌱 Skilled in JavaScript, HTML5, CSS3, React.js, Express.js, SQL (MariaDB), DOM, API integration, and CRUD operations.
+-  🛠️ Passionate about writing clean, maintainable code and creating user-friendly web applications.
+-  🧠 Always eager to learn new technologies and continuously improve my coding skills.
+-  🧑 Known for responsibility, attention to detail, precision, patience, and strong logical thinking.
 
 ##  📊 GitHub Stats
 <a href="https://github.com/RokasIme/github-readme-stats">
