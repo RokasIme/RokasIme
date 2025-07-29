@@ -2,7 +2,7 @@
   🎓 I completed a Full-Stack Development program at the Baltic Institute of Technology and I’m highly motivated to build a career as a software developer.
   
 ## 🚀 About me
--  🌱 Skilled in JavaScript, HTML5, CSS3, React.js, Express.js, SQL (MariaDB), DOM, API integration, and CRUD operations.
+-  🌱 Skilled in JavaScript, HTML5, CSS3, React.js, Node.js (Express.js), SQL (MariaDB), DOM, API integration, and CRUD operations.
 -  🛠️ Passionate about writing clean, maintainable code and creating user-friendly web applications.
 -  🧠 Always eager to learn new technologies and continuously improve my coding skills.
 -  🧑 Known for responsibility, attention to detail, precision, patience, and strong logical thinking.
